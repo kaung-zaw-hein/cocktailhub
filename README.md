@@ -1,3 +1,6 @@
+# Cocktailhub
+![image](https://user-images.githubusercontent.com/62888962/167988413-fae49d7d-d0c2-4757-87cf-43389aef5a8f.png)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
