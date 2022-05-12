@@ -1,0 +1,21 @@
+.section{
+    display:flex;
+    flex-direction:column;
+    justify-content:center;
+    height:90vh;
+    position:relative;
+}
+.error_container{
+    color:#fff;
+}
+.error_container h1{
+    font-size:4em;
+}
+.error_container a{
+    position:absolute;
+    top: 20px;
+    right: 40px;
+    color:#efefef;
+    margin-top:40px;
+    padding:20px;
+}

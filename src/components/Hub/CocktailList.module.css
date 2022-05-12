@@ -1,0 +1,22 @@
+.section{
+    width:100%;   
+}
+.section_title{
+    font-size:2em;
+    color:#ffff;
+    text-align:left;
+    margin-bottom: 20px;
+}
+.cocktails_center{
+    display:flex;
+    width:100%;
+    flex-wrap:wrap;
+    justify-content:space-around;
+}
+.sectiontitle{
+    width:100%;   
+    text-align:center;
+    font-size:3em;
+    color:#ffff;
+    margin-top:100px;   
+}

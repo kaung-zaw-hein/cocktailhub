@@ -1,0 +1,28 @@
+.about{
+    display:flex;
+    flex-direction:column;
+    justify-content:center;
+    align-items:center;
+    height:80vh;
+    color:#ffff;
+    padding:0 40px;
+    position:relative;
+}
+.about h1{
+    font-size:2em;
+    font-weight:800;
+    margin-bottom: 30px;
+}
+.about p{
+    width:80%;
+    font-size:1.5em;
+    font-weight:600;
+}
+.about a{
+    position:absolute;
+    top: 20px;
+    right: 40px;
+    color:#efefef;
+    margin-top:40px;
+    padding:20px;
+}

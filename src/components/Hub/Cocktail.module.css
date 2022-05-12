@@ -1,0 +1,31 @@
+.cocktail{
+    width:420px;
+    background:rgb(229, 234, 232);
+    border-radius: 30px;
+    margin: 10px 0;
+}
+.img_container{
+    width:100%;
+    margin:0 auto;
+}
+.img_container img{
+    width:100%;
+    border-radius: 20px;
+}
+.cocktail_footer{
+    padding:20px;
+    text-align:left;
+    color:#3d3d3d;
+}
+.cocktail_footer h3{
+   font-size: 2em;
+   font-weight:800;
+}
+.cocktail_footer h4{
+    font-size: 1.5em;
+   font-weight:600;
+}
+.cocktail_footer p{
+    font-size: 1em;
+   font-weight:bold;
+}
